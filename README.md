@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DONXUX&layout=compact)](https://github.com/DONXUX/)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DONXUX)](https://github.com/DONXUX/)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
 <!--
