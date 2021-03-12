@@ -9,8 +9,11 @@
 ### Languages
  - C, C++, C#, Dart, JAVA, JavaScript, Python, R
 
-### Development
- - Android, iOS(SwiftUI), Flutter, React, Node.js, Spring, Django, OpenCV, OpenGL, Unity, ARCore, ARFoundation, Tensorflow 2.0, MFC, Intel TBB
+### Frameworks
+ - Android, SwiftUI, Flutter, React, Node.js, Spring, Django, OpenCV, Unity, ARCore, ARFoundation, Tensorflow, MFC, Intel TBB
+
+### Developments
+ - Android App, iOS App, Crossplatform App(Flutter), Web Front-end(Flutter, React), Server(Spring, Node.js, Django), Image Processing(OpenCV), FPS Game(Unity), AR(ARCore, ARFoundation), Sound Analysis using CNN(Tensorflow), Parallel Processing(Intel TBB)
 
 ### Design
  - Adobe XD
