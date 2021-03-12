@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/ldu2175)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
 
 <!--
