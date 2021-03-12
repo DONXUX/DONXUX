@@ -13,7 +13,7 @@
  - Android, SwiftUI, Flutter, React, Node.js, Spring, Django, OpenCV, Unity, ARCore, ARFoundation, Tensorflow, MFC, Intel TBB
 
 ### Developments
- - Android App, iOS App, Crossplatform App(Flutter), Web Front-end(Flutter, React), Server(Spring, Node.js, Django), Image Processing(OpenCV), FPS Game(Unity), AR(ARCore, ARFoundation), Sound Analysis using CNN(Tensorflow), Parallel Processing(Intel TBB)
+ - ✨Android App, ✨iOS App, ✨Crossplatform App(Flutter), ✨AR(ARCore, ARFoundation), Web Front-end(Flutter, React), Server(Spring, Node.js, Django), Image Processing(OpenCV), FPS Game(Unity), Sound Analysis using CNN(Tensorflow), Parallel Processing(Intel TBB)
 
 ### Design
  - Adobe XD
