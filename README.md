@@ -19,7 +19,7 @@
  - Adobe XD
 
 ### Interesting
- - Algorithm, Android, iOS, AR, Server, Data Science
+ - Algorithm, Android, iOS, AR, Server, Data Science, NLP
 
 <!--
 **DONXUX/DONXUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
