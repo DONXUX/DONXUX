@@ -6,6 +6,18 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
+### Language
+ - C, C++, C#, Dart, JAVA, JavaScript, Python, R
+
+### Development
+ - Android, iOS(SwiftUI), Flutter, React, Node.js, Spring, Django, OpenCV, OpenGL, Unity, ARCore, ARFoundation, Tensorflow 2.0, MFC, Intel TBB
+
+### Design
+ - Adobe XD
+
+### Interesting
+ - Algorithm, Android, iOS, AR, Server, Data Science
+
 <!--
 **DONXUX/DONXUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
