@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![DONXUX's github stats](https://github-readme-stats.vercel.app/api?username=DONXUX&show_icons=true)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
 
