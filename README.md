@@ -7,7 +7,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
 ### Languages
- - C, C++, C#, Dart, JAVA, JavaScript, Python, R
+ - C, C++, C#, Dart, JAVA, JavaScript, Python, R, Swift
 
 ### Frameworks
  - Android, SwiftUI, Flutter, React, Node.js, Spring, Django, OpenCV, Unity, ARCore, ARFoundation, Tensorflow, MFC, Intel TBB
