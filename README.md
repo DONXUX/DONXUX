@@ -4,6 +4,10 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DONXUX&layout=compact)](https://github.com/DONXUX/)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DONXUX)](https://github.com/DONXUX/)
+
 
 <!--
 **DONXUX/DONXUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
