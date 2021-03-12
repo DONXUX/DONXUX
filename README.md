@@ -6,7 +6,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
 
-### Language
+### Languages
  - C, C++, C#, Dart, JAVA, JavaScript, Python, R
 
 ### Development
