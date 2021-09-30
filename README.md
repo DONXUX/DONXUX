@@ -8,6 +8,7 @@
 
 ### Languages
  - C, C++, C#, Dart, JAVA, JavaScript, Python, R, Swift
+<image src="https://user-images.githubusercontent.com/57793298/135412920-c7495e48-5802-4fca-a26e-da1e50f15931.png" width="50" height = "50"> <image src="https://user-images.githubusercontent.com/57793298/135413690-de600da2-32a7-4e5d-a4cb-33cbff1fb3f2.png" width="50" height = "50">  
 
 ### Frameworks
  - Android, SwiftUI, Flutter, React, Node.js, Spring, Django, OpenCV, Unity, ARCore, ARFoundation, Tensorflow, MFC, Intel TBB
