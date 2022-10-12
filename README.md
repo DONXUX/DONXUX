@@ -13,7 +13,7 @@
  - Android, SwiftUI, Flutter, React, Node.js, Spring, Django, OpenCV, Unity, ARCore, ARFoundation, Tensorflow, MFC, Intel TBB
 
 ### Design
- - Adobe XD
+ - Adobe XD, Figma
 
 ### Interesting
  - Algorithm, Android, iOS, AR, Server, Data Science, NLP
