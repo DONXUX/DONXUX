@@ -9,12 +9,12 @@
 |==|-,   _`/  '.='. -   .' /==/, | |- |\==\- \/=/ , //==/ , _  .'\==\- \/=/ , /  
 `-.`.____.'     `--`--''   `--`./  `--` `--`-'  `--` `--`..---'   `--`-'  `--`  
 </pre>
-
+<!-- 
 ![DONXUX's github stats](https://github-readme-stats.vercel.app/api?username=DONXUX&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DONXUX&layout=compact)](https://github.com/DONXUX/)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ldu2175)](https://solved.ac/ldu2175) -->
 
 ### Languages
  - C, C++, C#, Dart, JAVA, JavaScript, Python, R, Swift, Kotlin
