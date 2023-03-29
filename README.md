@@ -1,4 +1,5 @@
-![donxux](https://user-images.githubusercontent.com/40733561/216210729-a3f3ba5b-1ceb-496d-b6d0-3f50fc30f720.png)
+![Artboard 1@4x](https://user-images.githubusercontent.com/40733561/228532047-c036eb1c-aa0c-43a3-8bd2-a02a29d22e28.png)
+
 <!-- 
 ![DONXUX's github stats](https://github-readme-stats.vercel.app/api?username=DONXUX&show_icons=true)
 
@@ -20,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-zz이걸 이리 테러할 수 있네 zzzzzzzzzzzzzzzz zzz 내 pr을 받아라
