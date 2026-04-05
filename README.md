@@ -1,5 +1,4 @@
-![Artboard 1@4x](https://user-images.githubusercontent.com/40733561/228532047-c036eb1c-aa0c-43a3-8bd2-a02a29d22e28.png)
-
+-
 <!-- 
 ![DONXUX's github stats](https://github-readme-stats.vercel.app/api?username=DONXUX&show_icons=true)
 
